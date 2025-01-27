@@ -27,5 +27,5 @@ Yesscout was designed with simplicity and flexibility in mind. It’s a great to
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/yesscout.git
+   git clone https://github.com/salambaee/yesscout.git
    cd yesscout
